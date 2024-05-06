@@ -1,14 +1,7 @@
-### Hi there 👋
-
-<!--
-**BNah1/BNah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I graduated from international university ( VNU ).
 - 🌱 I’m currently learning University Of Economics Ho Chi Minh City for second degree.
 - 😄 I LOVE CODING
-Please contact me <<
+
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nhan-bao-605b332b7) 
 
@@ -21,4 +14,3 @@ Please contact me <<
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BNah1&icon=0&color=0)](https://visitcount.itsvg.in)
-
