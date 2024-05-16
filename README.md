@@ -1,6 +1,6 @@
-- 🔭 I graduated from international university ( VNU ).
+- 🔭 I graduated from International University ( VNU ).
 - 🌱 I’m currently learning University Of Economics Ho Chi Minh City for second degree.
-- 😄 I LOVE CODING
+- 😄 I LOVE CODING 
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nhan-bao-605b332b7) 
