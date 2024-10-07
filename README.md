@@ -1,4 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+;%F0%9F%94%AD+I+graduated+CE+from+;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+SE)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github!!;International+University+(+VNU+).;at+UEH+for+second+degree.)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+;%F0%9F%94%AD+I+graduated+CE+from+;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+SE" alt="Typing SVG 1">
+  </a>
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github!!;International+University+(+VNU+).;at+UEH+for+second+degree." alt="Typing SVG 2">
+  </a>
+  <br>
+  <img src="https://github.com/user-attachments/assets/afaad1ba-df2c-4712-9010-825b03909773" alt="Image" style="margin-top: 20px;">
+</p>
 ![tw](https://github.com/user-attachments/assets/afaad1ba-df2c-4712-9010-825b03909773)
 
 ## 🌐Socials
