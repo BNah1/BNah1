@@ -1,6 +1,5 @@
-- 🔭 I graduated from International University ( VNU ).
-- 🌱 I’m currently learning University Of Economics Ho Chi Minh City for second degree.
-- 😄 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+;%F0%9F%94%AD+I+graduated+CE+from+;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+SE)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github!!;International+University+(+VNU+).;at+UEH+for+second+degree.)](https://git.io/typing-svg)
+![tw](https://github.com/user-attachments/assets/afaad1ba-df2c-4712-9010-825b03909773)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nhan-bao-605b332b7) 
