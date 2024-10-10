@@ -9,7 +9,6 @@
   <br>
   <img src="https://github.com/user-attachments/assets/afaad1ba-df2c-4712-9010-825b03909773" alt="Image" style="margin-top: 20px;">
 </p>
-![tw](https://github.com/user-attachments/assets/afaad1ba-df2c-4712-9010-825b03909773)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nhan-bao-605b332b7) 
